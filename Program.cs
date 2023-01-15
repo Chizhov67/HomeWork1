@@ -1,4 +1,6 @@
-﻿int a, b;
+﻿# Задача 2
+
+ int a, b;
 Console.Write("Введите a: ");
 a = Convert.ToInt32(Console.ReadLine());
 
